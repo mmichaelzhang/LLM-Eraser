@@ -1,5 +1,5 @@
 # LLM-Eraser
-Pytorch implementation of paper "Select to Preserve: Selective Knowledge Erasure of Large Language Models with Contrastive Pruning"
+Pytorch implementation of paper "LLM-Eraser: Optimizing Large Language Model Unlearning through Selective Pruning"
 
 
 ### Python environment setup with conda
