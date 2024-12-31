@@ -1,6 +1,8 @@
 # LLM-Eraser
 Pytorch implementation of paper "LLM-Eraser: Optimizing Large Language Model Unlearning through Selective Pruning"
 
+The code is partially built upon the implementation of LLM-Pruner (https://github.com/horseee/LLM-Pruner).
+
 
 ### Python environment setup with conda
 
